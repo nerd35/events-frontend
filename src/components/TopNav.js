@@ -25,7 +25,7 @@ const TopNav = () => {
 				<Collapse isOpen={!collapsed} navbar>
 					<Nav navbar>
 						<NavItem>
-							<Link to='/events'>Events</Link>
+							<Link to='/events'>Create Events</Link>
 						</NavItem>
 						<NavItem>
 							<Link to='/'>Dashboard</Link>
